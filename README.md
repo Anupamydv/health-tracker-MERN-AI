@@ -151,19 +151,7 @@ Perfect for real-world use, final-year projects, hackathons, and portfolios.
 
 ---
 
-## 📸 Screenshots (Add yours here)
 
-### Dashboard  
-![Dashboard Screenshot](https://github.com/user-attachments/assets/cf2437f5-3e1d-4209-94a4-f38357e33791)
-
-### Add Health Log  
-![Form Screenshot](https://github.com/user-attachments/assets/e59f34d1-d56b-46ce-bb0e-558b5767e590)
-
-### AI Suggestions  
-![AI Screenshot](https://github.com/user-attachments/assets/37477c40-35c7-4eaa-a7f8-924bdcb434b8)
-
-*(Upload images to GitHub Issues → copy URLs here)
----
 
 ## ⚙️ Installation & Setup
 
