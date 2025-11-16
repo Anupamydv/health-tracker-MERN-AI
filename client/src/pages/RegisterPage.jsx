@@ -81,7 +81,8 @@ const RegisterPage = () => {
       </div>
       <div className="auth-hero">
         <h2>HealthTrack AI</h2>
-        <p>Beautiful dashboards to make your interviewers say wow.</p>
+        <p>Your personal wellness companion — powered by intelligent AI insights and beautiful dashboards.</p>
+        
       </div>
     </div>
   );
