@@ -89,65 +89,6 @@ cd health-tracker-MERN-AI
 A production-ready **AI-powered Health Tracking System** built using the **MERN stack** (MongoDB, Express, React, Node.js) integrated with **Groq Llama 3.3 (70B)** to generate personalized, safe, wellness-focused suggestions based on user vitals.
 
 This project allows users to log their daily vitals, analyze trends, and receive instant AI wellness insights.  
-Perfect for real-world use, final-year projects, hackathons, and portfolios.
-
----
-
-## 🚀 Features
-
-### ⭐ User Features
-- Secure authentication (register/login)
-- Add daily health vitals:
-  - Blood Pressure (Sys & Dia)
-  - Heart Rate
-  - Glucose Level
-  - Weight
-  - Sleep Hours
-  - Notes
-- AI-generated health suggestions (Llama 3.3 70B)
-- Dynamic dashboard with:
-  - Average health score
-  - Records count
-  - Last update date
-- Health score calculation logic
-- Interactive charts (Recharts)
-- Fully responsive UI
-
----
-
-## 🤖 AI Features (Groq Llama 3.3)
-
-- Uses **Llama 3.3 70B Versatile** model
-- Generates:
-  - Summary of today's health
-  - Key insights
-  - Lifestyle recommendations (diet, sleep, hydration, activity)
-- Avoids medical diagnosis
-- Fast & free using Groq API
-- If AI fails → **safe fallback message** ensures logs still save
-
----
-
-## 🏗️ Tech Stack
-
-### **Frontend**
-- React.js  
-- Axios  
-- Recharts  
-- Context API  
-- Modern CSS  
-
-### **Backend**
-- Node.js  
-- Express.js  
-- JWT Authentication  
-- Groq AI (Llama 3.3)  
-- Mongoose ORM  
-
-### **Database**
-- MongoDB Atlas
-
----
 
 
 
