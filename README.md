@@ -76,9 +76,7 @@ Perfect for real-world use, final-year projects, hackathons, and portfolios.
 ### AI Suggestions  
 ![AI Screenshot](https://github.com/user-attachments/assets/37477c40-35c7-4eaa-a7f8-924bdcb434b8)
 
-*(Upload images to GitHub Issues → copy URLs here)*
 
----
 
 ## ⚙️ Installation & Setup
 
