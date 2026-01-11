@@ -65,7 +65,7 @@ Perfect for real-world use, final-year projects, hackathons, and portfolios.
 
 ---
 
-## 📸 Screenshots (Add yours here)
+## 📸 Screenshots 
 
 ### Dashboard  
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/cf2437f5-3e1d-4209-94a4-f38357e33791)
